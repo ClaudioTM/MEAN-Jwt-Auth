@@ -1,5 +1,13 @@
-# Angular 11 JWT Authentication example
+# Angular 11 JWT Authentication
 
 
-Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`.
+## Project setup
+```
+npm install
+```
+
+### Run
+```
+ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/
+```
 
